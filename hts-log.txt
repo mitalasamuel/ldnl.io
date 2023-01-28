@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Jan 2023 11:53:57 at https://ldnl.construction/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ldnl.construction/ -O1 "C:\My Web Sites\Lagan construction" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:55:17	Error: 	"Not Found" (404) at link https://ldnl.construction/home-1.html (from https://ldnl.construction/)
+11:55:17	Warning: 	Link https://ldnl.construction/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:55:17	Error: 	"Not Found" (404) at link https://ldnl.construction/index.html (from https://ldnl.construction/projects/new-case.html)
+11:56:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://lagandott.com/wp-content/uploads/2019/07/cropped-Lagan-DOTT-Namanve-Limited-Logo-1.-psd.png (from https://ldnl.construction/projects/new-case.html)
+11:56:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://lagandott.com/wp-content/uploads/2019/07/cropped-Lagan-DOTT-Namanve-Limited-Logo-1.-psd.png (from https://ldnl.construction/projects/new-case.html)
+11:56:39	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://lagandott.com/wp-content/uploads/2019/07/cropped-Lagan-DOTT-Namanve-Limited-Logo-1.-psd.png (from https://ldnl.construction/projects/new-case.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 42 seconds : 228 links scanned, 222 files written (113278632 bytes overall) [111752465 bytes received at 689830 bytes/sec], 2053834 bytes transferred using HTTP compression in 44 files, ratio 18%, 14.0 requests per connection
+(3 errors, 3 warnings, 0 messages)
